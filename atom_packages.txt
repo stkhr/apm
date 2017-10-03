@@ -1,0 +1,9 @@
+sort-lines
+project-manager
+highlight-selected
+autocomplete-paths
+file-icons
+show-ideographic-space
+atom-material-ui
+seti-ui
+monokai
