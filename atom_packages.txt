@@ -7,3 +7,4 @@ show-ideographic-space
 atom-material-ui
 seti-ui
 monokai
+tablr
