@@ -4,6 +4,7 @@ highlight-selected
 autocomplete-paths
 file-icons
 show-ideographic-space
+sublime-style-column-selection
 atom-material-ui
 seti-ui
 monokai
